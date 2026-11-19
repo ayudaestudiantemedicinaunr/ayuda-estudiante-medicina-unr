@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /simulador.html
+Sitemap: https://www.ayudaestudiantedemedicinaunr.com/sitemap.xml
